@@ -110,6 +110,8 @@ Failed Auth Attempts: 15
 
 ## 🏗️ Architecture
 
+![Class Diagram](Design.png)
+
 ```
 LogAnalyzer
 ├── parser/          - Log file parsers (Apache, Nginx, etc.)
